@@ -3,7 +3,7 @@
 
 ### Embedded Systems Specialist & AI Developer
 
-Welcome to my GitHub profile! I am a passionate Embedded Engineer with over 6 years of experience in electronics and computer science. My journey has led me to a deep specialization in **Embedded AI**, where I bridge the gap between low-level hardware control and high-level intelligent algorithms. I thrive on creating innovative solutions, from autonomous drones to smart edge devices.
+Hello, I'm Mehdi Sadeghi. In the 6 years I've been working in the field of electronics and computers, I've worked with various boards, languages, and technologies, and I've delved into the topic of Embedded AI.
 
 ---
 
@@ -41,34 +41,3 @@ Welcome to my GitHub profile! I am a passionate Embedded Engineer with over 6 ye
 *   **IoT:** Smart Home Systems & Solutions
 
 ---
-
-## 🚀 Featured Projects
-
-*(This is a placeholder section. You should add links to your best repositories here!)*
-
-*   **[Autonomous AI Drone](link-to-repo)** | C++, Python, OpenCV, TensorFlow Lite
-    *   Developed a quadcopter with a custom flight controller and an onboard AI for object detection and autonomous navigation.
-*   **[Edge AI Smart Sensor Node](link-to-repo)** | ESP32, MicroPython, Edge Impulse
-    *   Created a low-power IoT device that performs real-time sensor data analysis and anomaly detection at the edge.
-*   **[RISC-V Core Implementation](link-to-repo)** | Verilog, FPGA
-    *   Designed and simulated a pipelined RISC-V CPU core on an FPGA.
-
----
-
-## 📫 Let's Connect
-
-I am always open to discussing new opportunities, collaborations, or just chatting about technology.
-
-*   **Email:** [your-email@domain.com]
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Portfolio:** [Your Personal Portfolio Website URL]
-
----
-
-## 📈 GitHub Stats
-
-*(A nice visual touch that many developers add.)*
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
