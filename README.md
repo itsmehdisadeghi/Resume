@@ -52,3 +52,5 @@ Hello, I'm Mehdi Sadeghi. In the 6 years I've been working in the field of elect
     *   a iot wifi smart light with web ui
 *   **[CV2 VR game](https://github.com/itsmehdisadeghi/opencv_vopa_boxing)** | python , opencv
     *   a virtual reality computer vision boxing game
+*   **[CV2 scanner](https://github.com/itsmehdisadeghi/image-scanner-adjustment)** | python , opencv
+    *   paper scanner using opencv python
