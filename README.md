@@ -1,7 +1,7 @@
 # Resume
 # Mehdi Sadeghi | Embedded AI Engineer
 
-### Embedded Systems Specialist & AI Developer
+### Embedded Systems & AI Developer
 
 Hello, I'm Mehdi Sadeghi. In the 6 years I've been working in the field of electronics and computers, I've worked with various boards, languages, and technologies, and I've delved into the topic of Embedded AI.
 
