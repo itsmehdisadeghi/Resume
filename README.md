@@ -31,7 +31,7 @@ Hello, I'm Mehdi Sadeghi. In the 6 years I've been working in the field of elect
     *   Web Scraping Bots (Selenium)
 *   **Database:** SQL Server
 *   **FPGA & Digital Design:** RTL, FPGA Development
-*   **user interfaces:** QT , windows form applications , SDL2 , UNITY 2D , GODOT
+*   **user interfaces:** QT , windows form applications , SDL2 , UNITY 2D
 *   https://github.com/itsmehdisadeghi/QT_Library
 *   
 *   **CAD & 3D Modeling:** SketchUp, Cura
@@ -46,9 +46,9 @@ Hello, I'm Mehdi Sadeghi. In the 6 years I've been working in the field of elect
 
 ## 🚀 Featured Projects
 
-*   **[Autonomous AI Drone](link-to-repo)** | C++, Python, OpenCV, TensorFlow Lite
-    *   Developed a quadcopter with a custom flight controller and an onboard AI for object detection and autonomous navigation.
-*   **[Edge AI Smart Sensor Node](link-to-repo)** | ESP32, MicroPython, Edge Impulse
-    *   Created a low-power IoT device that performs real-time sensor data analysis and anomaly detection at the edge.
+*   **[QT CALCULATOR ](https://github.com/itsmehdisadeghi/QT_Calculator )** | C++, QT
+    *   Developed a QT5 calculator.
+*   **[QT LIBRARY MANAGEMENT](https://github.com/itsmehdisadeghi/QT_Library)** | C++, QT
+    *   Created a QT based library management system .
 *   **[RISC-V Core Implementation](link-to-repo)** | Verilog, FPGA
     *   Designed and simulated a pipelined RISC-V CPU core on an FPGA.
