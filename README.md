@@ -48,5 +48,7 @@ Hello, I'm Mehdi Sadeghi. In the 6 years I've been working in the field of elect
     *   Developed a QT5 calculator.
 *   **[QT LIBRARY MANAGEMENT](https://github.com/itsmehdisadeghi/QT_Library)** | C++, QT
     *   Created a QT based library management system .
-*   **[RISC-V Core Implementation](link-to-repo)** | Verilog, FPGA
-    *   Designed and simulated a pipelined RISC-V CPU core on an FPGA.
+*   **[esp32 wifi IOT](https://github.com/itsmehdisadeghi/esp32_wifi_IOT )** | C++ , ESP32 
+    *   a iot wifi smart light with web ui
+*   **[CV2 VR game](https://github.com/itsmehdisadeghi/opencv_vopa_boxing)** | python , opencv
+    *   a virtual reality computer vision boxing game
