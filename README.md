@@ -46,6 +46,8 @@ Hello, I'm Mehdi Sadeghi. In the 6 years I've been working in the field of elect
 
 *   **[QT CALCULATOR ](https://github.com/itsmehdisadeghi/QT_Calculator )** | C++, QT
     *   Developed a QT5 calculator.
+*   **[FreeRTOS CANSAT](https://github.com/itsmehdisadeghi/FreeRTOS-based-Cansat)** | C , opencv , ESP32CAM 
+    *   CV processing in a tiny Can sized Satellite based on FreeRTOS
 *   **[QT LIBRARY MANAGEMENT](https://github.com/itsmehdisadeghi/QT_Library)** | C++, QT
     *   Created a QT based library management system .
 *   **[esp32 wifi IOT](https://github.com/itsmehdisadeghi/esp32_wifi_IOT )** | C++ , ESP32 
@@ -54,3 +56,4 @@ Hello, I'm Mehdi Sadeghi. In the 6 years I've been working in the field of elect
     *   a virtual reality computer vision boxing game
 *   **[CV2 scanner](https://github.com/itsmehdisadeghi/image-scanner-adjustment)** | python , opencv
     *   paper scanner using opencv python
+
